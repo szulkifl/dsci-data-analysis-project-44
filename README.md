@@ -1,2 +1,1 @@
-# dsci-100-project_template
-Template project repository for DSCI-100
+This is an extensive data analysis project focusing on the construction of two separate K-Classifiers, one for males and one for females, to have a logical and data-oriented process of classifying patients for Coronary Artery Disease.
